@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amy-gitspace
-- 👀 I’m interested in software testing
+- 👀 I’m interested in software testing and Python
 - 🌱 I’m currently learning python
 
 
